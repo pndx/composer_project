@@ -1,0 +1,14 @@
+{
+  "name": "pndx/composer_project",
+  "description": "just a test",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "pndx",
+      "email": "pndx@example.com"
+    }
+  ],
+  "require": {
+  }
+}
